@@ -8,5 +8,8 @@ scanf("%d %d",&a,&b);
 c=a+b;
 pintf("add is");
 printf("%d",c);
+c=a-b;
+printf("sub is:");
+printf("%d",c);
 getch();
 }
